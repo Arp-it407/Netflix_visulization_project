@@ -43,7 +43,8 @@ Tools: Jupyter Notebook
 
 Clone the repository:
 
-git clone https://github.com/yourusername/netflix-visualization.git
+git clone https://github.com/Arp-it407
+/netflix-visualization.git
 cd netflix-visualization
 
 
